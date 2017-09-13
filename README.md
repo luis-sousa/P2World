@@ -1,5 +1,4 @@
 # P2World
-Aplicação de troca de ficheiros em rede p2p 
 Aplicação criada no âmbito da unidade curricular de Sistemas Distribuídos utilizando os conceitos lecionados nas aulas durante o semestre. 
  
 O tema da aplicação assenta no princípio de comunicação em rede entre aplicações, para isso cada aplicação recorre a sockets e a protocolos de comunicação tais como UDP e TCP. 
